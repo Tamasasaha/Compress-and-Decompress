@@ -1,0 +1,11 @@
+Compressor decompressor
+  - The project involves building a compressor and decompressor in Java, using Java Swing for creating a graphical user interface. 
+  - Objective of the project is to reduce the number of bits needed to represent data through compression technique
+  - The project will only use lossless conversion to ensure no data loss occurs during compression
+  - Benefits of compression include saving storage space, speeding up file transfers, and reducing storage hardware and network bandwidth costs
+  - In the project, we will ensure that our compressed files can be restored to their original form
+  - Discussion on two technologies used in the project: Java and Java Swing.
+  - Java IO package is used to handle input and output streams for reading and writing data to files or other sources.
+  - Input file is compressed and output file is generated using the Java IO package like buttons, labels, and texts.
+  - JFrame represents the main window when executing the project.
+  - The project includes a button that, when clicked, pops up a window to select a file to be compressed or decompressed.
